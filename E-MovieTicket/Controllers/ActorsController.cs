@@ -1,6 +1,6 @@
 ﻿using E_MovieTicket.Data.Services;
 using E_MovieTicket.Data.Static;
-using eTickets.Models;
+using E_MovieTicket.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 

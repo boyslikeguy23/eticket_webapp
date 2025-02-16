@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using E_MovieTicket.Data.Enum;
 
-namespace eTickets.Models
+namespace E_MovieTicket.Models
 {
     public class NewMovieVM
     {

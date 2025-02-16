@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using E_MovieTicket.Data.Base;
 using E_MovieTicket.Models;
 
-namespace eTickets.Models
+namespace E_MovieTicket.Models
 {
     public class Actor:IEntityBase
     {

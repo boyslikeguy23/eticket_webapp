@@ -11,9 +11,9 @@ using E_MovieTicket.Data;
 using E_MovieTicket.Data.Enum;
 using E_MovieTicket.Data.Static;
 using E_MovieTicket.Models;
-using eTickets.Models;
+using E_MovieTicket.Models;
 
-namespace eTickets.Data
+namespace E_MovieTicket.Data
 {
     public class AppDbInitializer
     {

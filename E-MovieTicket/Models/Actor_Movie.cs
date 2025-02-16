@@ -1,4 +1,4 @@
-﻿using eTickets.Models;
+﻿using E_MovieTicket.Models;
 
 namespace E_MovieTicket.Models;
 

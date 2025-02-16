@@ -2,7 +2,7 @@
 using E_MovieTicket.Data.Static;
 using E_MovieTicket.Data.ViewModels;
 using E_MovieTicket.Models;
-using eTickets.Data.ViewModels;
+using E_MovieTicket.Data.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

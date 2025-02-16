@@ -1,5 +1,5 @@
 ﻿using E_MovieTicket.Data.Base;
-using eTickets.Models;
+using E_MovieTicket.Models;
 
 namespace E_MovieTicket.Data.Services;
 

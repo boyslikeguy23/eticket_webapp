@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using E_MovieTicket.Models;
-using eTickets.Models;
+using E_MovieTicket.Models;
 
-namespace eTickets.Data.ViewModels
+namespace E_MovieTicket.Data.ViewModels
 {
     public class NewMovieDropdownsVM
     {

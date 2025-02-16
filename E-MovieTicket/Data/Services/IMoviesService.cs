@@ -1,7 +1,8 @@
 ﻿using E_MovieTicket.Data.Base;
+using E_MovieTicket.Data.ViewModels;
 using E_MovieTicket.Models;
-using eTickets.Data.ViewModels;
-using eTickets.Models;
+using E_MovieTicket.Data.ViewModels;
+using E_MovieTicket.Models;
 
 namespace E_MovieTicket.Data.Services;
 
